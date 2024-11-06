@@ -1,0 +1,32 @@
+.body{
+    justify-content: center;
+}
+
+.jogo{
+   
+    display: flex;
+
+}
+
+.part{
+    background-image:"https://img.freepik.com/vetores-gratis/ilustracao-de-desenho-animado-de-desenho-animado-de-velhinha-desenhada-a-mao_52683-115975.jpg";
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+    margin: 2px;
+    border: 100px;
+}
+
+/*.jogo:hover{
+    border-color:red;
+}*/
+
+section{
+    margin-top: 10px;
+}
+
+img{
+    width: 90px;
+    height: 90px;
+    opacity: 70%;
+}
